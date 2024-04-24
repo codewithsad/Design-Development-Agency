@@ -1,0 +1,236 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+  /* common start */
+.about_us , .process ,.number , .card-and-icon , .brand , .Project , footer{
+    padding: 50px 0px;
+}
+/* common end */
+/* header start */
+button.navbar-toggler.collapsed {
+    border: 2px solid #fff !important;
+    
+}
+.navbar-light .navbar-toggler {
+    border: 2px solid #fff !important;
+}
+
+/* header end */
+/* banner start */
+.b_contant {
+    margin: 80px 10px;
+    text-align: center;
+}
+.b_contant h1 {
+    font-size: 25px;
+}
+.b_contant p {
+    font-size: 15px;
+}
+/* banner end */
+/* about-us start */
+.h-2 {
+    font-size: 25px;
+}
+.about_us img{
+    width: 146px;
+}
+/* about-us end */
+/* Professional Skills start */
+.s-content {
+    margin-bottom: 50px;
+}
+.process p{
+    margin-bottom: 0;
+}
+
+
+.number p {
+    font-size: 15px;}
+   
+ /* Professional Skills end */
+ /* card start */
+ .c-body p {
+    text-align: center;
+        padding: 8px 10px;
+    }
+ /* card end */
+ /* slider start */
+.slider{
+    padding: 60px 0px;
+}
+.slider h3{
+    font-size: 15px;
+}
+.cid {
+    bottom: -70px;
+}
+ /* slider end */
+ /* brand start */
+ .brand img {
+    margin-bottom: 41px;
+    margin-left: 10px;
+}
+ /* brand end */
+ /* footer start */
+ footer p {
+    margin-bottom: 12px;
+    text-align: center;
+}
+footer h5 {
+    text-align: center;
+}
+footer ul{
+    padding-left: 0;
+}
+footer ul li {
+    font-size: 16px;
+}
+ /* footer end */
+ 
+ }
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/* common start */
+.about_us , .process ,.number , .card-and-icon , .brand , .Project , footer{
+    padding: 50px 0px;
+}
+/* common end */
+/* header start */
+button.navbar-toggler.collapsed {
+    border: 2px solid #fff !important;
+    
+}
+.navbar-light .navbar-toggler {
+    border: 2px solid #fff !important;
+}
+
+/* header end */
+/* banner start */
+.b_contant {
+    margin: 150px 45px;
+    text-align: center;
+}
+.b_contant h1 {
+    font-size: 30px;
+}
+.b_contant p {
+    font-size: 16px;
+}
+/* banner end */
+/* Professional Skills start */
+.s-content {
+    margin-bottom: 50px;
+}
+.process p{
+    margin-bottom: 0;
+}
+
+
+.number p {
+    font-size: 15px;}
+ /* Professional Skills end */
+ /* slider start */
+.slider{
+    padding: 80px 10px;
+}
+.slider h3{
+    font-size: 18px;
+}
+.cid {
+    bottom: -78px;
+}
+ /* slider end */
+ /* brand start */
+ .brand img {
+    margin-bottom: 41px;
+    margin-left: 59px;
+}
+ /* brand end */
+  /* footer start */
+  footer p {
+    margin-bottom: 11px;
+}
+footer ul li{
+    margin-top: 10px;
+}
+
+ /* footer end */
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* common start */
+    .about_us , .process ,.number , .card-and-icon , .brand , .Project , footer{
+        padding: 70px 0px;
+    }
+    /* common end */
+    /* header start */
+    button.navbar-toggler.collapsed {
+        border: 2px solid #fff !important;
+        
+    }
+    .navbar-light .navbar-toggler {
+        border: 2px solid #fff !important;
+    }
+    
+    /* header end */
+    /* banner start */
+    .b_contant {
+        margin: 150px 45px;
+        text-align: center;
+    }
+    /* banner end */
+    
+    /* Professional Skills start */
+    .s-content {
+        margin-bottom: 50px;
+    }
+    .process p{
+        margin-bottom: 0;
+    }
+     /* Professional Skills end */
+   
+    /* card start */
+    .c-body {
+        padding: 0px 30px;
+    }
+    /* card start */
+    /* slider start */
+    .slider {
+        padding: 100px 60px;
+    }
+    .slider h3{
+        font-size: 20px;
+    }
+    .cid {
+        bottom: -78px;
+    }
+    /* slider end */
+   /* footer start */
+ footer p {
+    margin-bottom: 11px;
+}
+footer ul li{
+    margin-top: 10px;
+}
+ /* footer end */
+    
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/* Professional Skills start */
+
+ /* Professional Skills end */
+ /* slider start */
+ .slider {
+        padding: 150px 100px;
+}
+ /* slider end */
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+    
+ }
